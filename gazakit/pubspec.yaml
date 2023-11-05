@@ -1,0 +1,49 @@
+name: gazakit
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+dependencies:
+  adhan: ^2.0.0+1
+  intl: ^0.18.1
+  timezone: ^0.9.2
+  url_launcher: ^6.2.1
+  geolocator: ^10.1.0
+  flutter_local_notifications: ^16.1.0
+  flutter_inset_box_shadow: ^1.0.8
+  flutter_svg: ^2.0.9
+  dio: ^5.3.3
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+  fonts:
+  - family: product_sans
+    fonts:
+      - asset: assets\fonts\ProductSans-Black.ttf
+      - asset: assets\fonts\ProductSans-BlackItalic.ttf
+      - asset: assets\fonts\ProductSans-Bold.ttf
+      - asset: assets\fonts\ProductSans-BoldItalic.ttf
+      - asset: assets\fonts\ProductSans-Italic.ttf
+      - asset: assets\fonts\ProductSans-Light.ttf
+      - asset: assets\fonts\ProductSans-LightItalic.ttf
+      - asset: assets\fonts\ProductSans-Medium.ttf
+      - asset: assets\fonts\ProductSans-MediumItalic.ttf
+      - asset: assets\fonts\ProductSans-Regular.ttf
+      - asset: assets\fonts\ProductSans-Thin.ttf
+      - asset: assets\fonts\ProductSans-ThinItalic.ttf
+  assets:
+    - assets/
