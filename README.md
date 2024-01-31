@@ -16,14 +16,6 @@ Gaza Kit is a Flutter Firebase app designed to provide essential tools for users
 
 Gaza Kit is built with the aim of supporting and assisting people in Gaza by offering a set of tools through a Flutter app connected to Firebase services. Whether it's for information, communication, or other essential needs, Gaza Kit strives to be a helpful resource.
 
-## Features
-
-- **Feature 1:** _Description of Feature 1._
-- **Feature 2:** _Description of Feature 2._
-- **Feature 3:** _Description of Feature 3._
-
-(Add more features as needed)
-
 ## Getting Started
 
 These instructions will help you set up the Gaza Kit app on your local machine for development and testing purposes.
